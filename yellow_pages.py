@@ -192,14 +192,3 @@ while(tab_status):
 
 
 
-
-
-
-		# print(read_results)
-		# print(read_results)
-	# [print(f"{index}.{item}") for index,item in enumerate(data)]
-	# print(f"{categories[category_input]} list yang ada")
-	# i=list(map(lambda value:[value],read_results.values()))
-		
-		# print(list([list(value.values())['nama']] for value in read_results))
-	# print(i)
